@@ -22,6 +22,4 @@
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/DilwarBot/DilwarXRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  ━━━━━━━━━━━━━━━━━━━━━━
 
-### ㅤCREDITS 😘
-
-🖤❛-𝐌𝐑'𝐁𝐀𝐍𝐍𝐀 🚬 𝐊𝐈𝐍𝐆-𝐱𝐃 °  : ᴍᴇ ᴏɴ [ɢɪᴛʜᴜʙ💞](https://github.com/BANNA-XD143)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ᴍᴇ ᴏɴ [ᴛᴇʟᴇɢʀᴀᴍ💔](https://telegram.me/BANNA_XD)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ᴍᴇ ᴏɴ [ᴛᴇʟᴇɢʀᴀᴍ💔](https://telegram.me/ALONE_WAS_BOT)
